@@ -4,11 +4,13 @@ Welcome to the Coding Ninjas Full Stack Web Development Course Solutions reposit
 
 Thank you for visiting this repository. All solutions provided here are curated to assist learners in understanding and overcoming challenges encountered during the course.
 
-![Coding ninjas logo](CN-README-banner.png) ![Coding ninjas course banner](CN-README-banner.jpg)
-
+![Coding ninjas logo](CN-README-banner.png)
 ## Overview
 
 This repository serves as a comprehensive resource hub for mastering full-stack web development with Coding Ninjas. From frontend fundamentals to backend and database problems, you'll find solutions organized in separate folders for easy navigation.
+
+![Coding ninjas course banner](CN-README-banner.jpg)
+
 
 ## What's Included
 
