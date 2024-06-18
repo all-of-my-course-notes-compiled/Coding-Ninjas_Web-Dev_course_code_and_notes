@@ -1,0 +1,1 @@
+As seen in code, setInterval function returns an instance ID of each time instance which has to be passed to clearInterval in order to stop
