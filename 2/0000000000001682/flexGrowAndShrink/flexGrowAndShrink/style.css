@@ -1,0 +1,38 @@
+ #container{
+    height: 500px;
+    width: 300px;
+    background-color: lightgrey;
+    display: flex;
+ }
+#container div{
+    height: 200px;
+    width: 200px;
+}
+
+#div1{
+    background-color: cyan;
+    flex-grow: 4;
+    flex-shrink: 4;
+
+}
+
+
+#div2{
+    background-color: red;
+    flex-grow: 1;
+}
+
+
+/* #div3{
+    background-color: grey;
+
+}
+
+#div4{
+    background-color: maroon;
+
+}
+
+#div5{
+    background-color: orange;
+} */
