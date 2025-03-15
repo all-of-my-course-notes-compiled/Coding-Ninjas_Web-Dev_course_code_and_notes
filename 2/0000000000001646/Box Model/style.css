@@ -1,0 +1,12 @@
+
+
+#div1{
+    margin: 4px;
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+    border: 2px solid blue;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
