@@ -1,0 +1,40 @@
+ #container{
+    height: 600px;
+    width: 600px;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+ }
+#container div{
+    height: 100px;
+    max-height: 400px;
+    width: 100px;
+}
+
+#div1{
+    background-color: cyan;
+  
+}
+
+
+#div2{
+    background-color: red;
+   
+}
+
+
+#div3{
+    background-color: grey;
+
+}
+
+/* #div4{
+    background-color: maroon;
+
+}
+
+#div5{
+    background-color: orange;
+} */
