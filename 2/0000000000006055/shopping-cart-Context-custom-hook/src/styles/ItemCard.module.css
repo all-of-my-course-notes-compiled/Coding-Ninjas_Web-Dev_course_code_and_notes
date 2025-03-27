@@ -1,0 +1,50 @@
+.itemCard {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    min-width: 16rem;
+    padding: 1rem;
+    font-family: 'Unbounded', sans-serif;
+    border: 0.4rem solid #000;
+    box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 1);
+}
+
+.itemName {
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.itemPrice {
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+
+.itemButtonsWrapper {
+    margin-block: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.itemButton {
+    border: 0.2rem solid #000;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-size: 1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    box-shadow: 3px 3px 0px 1px rgba(0, 0, 0, 1);
+    transition: all 0.2s ease-in-out;
+}
+
+.itemButton:hover {
+    transform: scale(0.9);
+    box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 1);
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
