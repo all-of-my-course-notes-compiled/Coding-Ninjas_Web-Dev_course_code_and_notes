@@ -1,0 +1,26 @@
+
+html{
+    font-size: 30px;
+}
+
+#div1{
+
+    height: 4rem;
+    /*75vh;*/
+    /*200px;*/
+    width: 6rem;
+    /*100vw;*/
+    /*300px;*/
+    background-color: #393a7b;
+    /*rgba(25,126,200, 1);*/
+    /*#393a7b;*/
+}
+
+
+#div2{
+    height: 50%;
+/*    height: 100px;*/
+    width: 50%;
+/*    width: 150px;*/
+    background-color: cyan;
+}
