@@ -1,0 +1,22 @@
+p {
+    /*color: blue;*/
+    font-size: 20px;
+    /*font-family: serif;*/
+}
+
+h1 {
+    font-size: 40px;
+}
+
+/*h4{
+	text-transform: uppercase;
+}
+*/
+.uppercase {
+    text-transform: uppercase;
+}
+
+.cursive {
+    font-family: cursive;
+
+}
