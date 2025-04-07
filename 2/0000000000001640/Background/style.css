@@ -1,0 +1,11 @@
+
+#logo-img-container{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("image/macbook_mouse.jpg");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: contain;
+    background-attachment: fixed;
+
+}
