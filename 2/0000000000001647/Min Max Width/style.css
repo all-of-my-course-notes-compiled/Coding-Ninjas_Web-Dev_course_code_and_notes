@@ -1,0 +1,12 @@
+
+
+#div1{
+    height: 100px;
+    width: 100px;
+    min-width: 150px;
+    max-width: 250px;
+    background-color: cyan;
+    border: 2px solid blue;
+    overflow: auto;
+}
+
