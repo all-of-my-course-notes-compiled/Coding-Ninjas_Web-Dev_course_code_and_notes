@@ -1,0 +1,8 @@
+html{
+    font-size: 30px;
+}
+#div1 {
+    width: 60%;
+    padding: 5px;
+    border: 1px solid black;
+}

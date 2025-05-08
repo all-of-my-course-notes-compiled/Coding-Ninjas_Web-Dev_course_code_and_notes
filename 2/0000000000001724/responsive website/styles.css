@@ -1,0 +1,15 @@
+#div1 {
+    width: 60%;
+    border: 1px solid black;
+}
+@media screen and (max-widrh:900px)
+{
+    #div1 {
+        width: 90%;
+    }
+}
+@media screen  and (max-width:900px){
+    #div1 {
+        width: 100%;
+    }
+}
