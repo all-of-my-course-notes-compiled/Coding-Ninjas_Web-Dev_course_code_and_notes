@@ -1,0 +1,46 @@
+
+.styled-first-letter::first-line{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+ul{
+    list-style: none;
+
+}
+
+li::before{
+    content: '';
+    background-image: url(ninjasicon.png);
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-size: contain;
+
+}
+
+
+p{
+    background-color: lightgrey;
+
+}
+
+p::before{
+    content: 'Before';
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+p::after{
+    content: '';
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-size: contain;
+    background-image: url(ninjasicon.png);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}

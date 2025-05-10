@@ -1,0 +1,44 @@
+ #container{
+    height: 500px;
+    width: 500px;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    /* justify-content: flex-start; */
+    /* justify-items: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    justify-content: center;
+ }
+#container div{
+    height: 100px;
+    width: 100px;
+}
+
+#div1{
+    background-color: cyan;
+
+
+}
+
+
+#div2{
+    background-color: red;
+
+}
+
+
+#div3{
+    background-color: grey;
+
+}
+
+/* #div4{
+    background-color: maroon;
+
+}
+
+#div5{
+    background-color: orange;
+} */ 
