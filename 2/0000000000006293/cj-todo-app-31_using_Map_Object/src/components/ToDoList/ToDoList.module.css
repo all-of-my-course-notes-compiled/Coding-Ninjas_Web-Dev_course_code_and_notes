@@ -1,0 +1,39 @@
+
+
+li{
+    text-align: left;
+}
+
+
+.container{
+    margin: 56px !important;
+}
+
+.completed{
+    background-color: green;
+    padding: 0 6px;
+    height: fit-content;
+    margin: auto 0;
+    border-radius: 4px;
+    color: white;
+}
+
+.pending{
+    background-color: red;
+    padding: 0 6px;
+    height: fit-content;
+    margin: auto 0;
+    border-radius: 4px;
+    color: white;
+}
+
+.item{
+    width: 50%;
+    margin-top: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content{
+    width: 25%;
+}
